@@ -5,6 +5,9 @@ public class Sample
     System.out.println("Welcome to Git hub tutorial");
   }
 
+def ramu:
+print(5+5) 
+
   public void add()
   {
       System.out.println("newly added method1");
