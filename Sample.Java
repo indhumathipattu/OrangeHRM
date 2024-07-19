@@ -4,9 +4,25 @@ public class Sample
   {
     System.out.println("Welcome to Git hub tutorial");
   }
+
+  public void add()
+  {
+      System.out.println("newly added method1");
+  }
+
+  public void sub()
+  {
+    System.out.println("newly added method2");
+  }
   public static void main(String[] args)
   {
      m1();
+
+     Sample s = new Sample();
+    
+      s.add();
+
+     s.sub();
   }
 
 }
