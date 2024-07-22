@@ -9,8 +9,7 @@ System.out.println("This is sample constructor");
     System.out.println("Welcome to Git hub tutorial");
   }
 
-def ramu:
-print(5+5) 
+
 
   public void add()
   {
